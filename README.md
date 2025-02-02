@@ -24,8 +24,8 @@ This system includes basic functionalities such as user registration, login, and
 
 ### 👥 **Team Members**
 - Kyongho Gong
-- MatthewZhu
 - Rsheed AlRashidi
+- Matthew Zhu
 - Kali Armstrong
 
 ---
