@@ -1,5 +1,15 @@
-### 📑 **Hospital Management System**
-This project is a JavaFX-based hospital management system designed to provide role-based access for patients, doctors, and nurses. The system enables secure authentication, appointment scheduling, patient record management, and medical notes tracking through an intuitive graphical user interface (GUI).
+### 📑 **Patient Health Management System**
+This project is a JavaFX-based patient health management system designed to provide role-based access for patients, doctors, and nurses.   
+The system facilitates secure authentication, appointment scheduling, medical record management, and doctor/nurse notes tracking.
+
+The system ensures:
+
+- Patient record management, including medical history, medications, and appointment details.
+- Role-based access for patients (view records), doctors (update diagnoses), and nurses (assist with care documentation).
+- File-based data storage, where each patient’s information is securely stored in .txt files.
+- Seamless communication between doctors and nurses for medical evaluations and updates.
+- 
+By leveraging JavaFX for the UI and text-based storage, this project offers a lightweight, standalone solution for managing patient health records efficiently.
 
 ---
 
