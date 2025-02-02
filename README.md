@@ -20,25 +20,22 @@ The project leverages JavaFX for the UI and file-based storage instead of a data
 
 ### 🏥 **System Modules**
 
-🔑 **User Authentication**
+🔑 **User Authentication**   
 - Patients can sign up and log in securely to access their medical information.
 
-👩‍⚕️ **Doctor View**
-Doctors can:
+👩‍⚕️ **Doctor View**   
 - View patient records including medical history and prescriptions.
 - Add/update doctor's notes and physical exam results.
 
-🩺 **Nurse View**
-Nurses can:
+🩺 **Nurse View**   
 - Access patient records, including allergies and precautions.
 - Update nurse notes for patient care continuity.
 
-🙍‍♂️ **Patient View**
-Patients can:
+🙍‍♂️ **Patient View**   
 - Check their appointments, medical history, and insurance details.
 - Update contact information for better communication.
 
-📄 **File-Based Data Storage**
+📄 **File-Based Data Storage**   
 - Instead of a database, this system stores patient records as .txt files, making it lightweight and easy to manage.
 
 ---
