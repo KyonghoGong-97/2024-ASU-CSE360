@@ -8,7 +8,7 @@ The system ensures:
 - Role-based access for patients (view records), doctors (update diagnoses), and nurses (assist with care documentation).
 - File-based data storage, where each patient’s information is securely stored in .txt files.
 - Seamless communication between doctors and nurses for medical evaluations and updates.
-- 
+  
 By leveraging JavaFX for the UI and text-based storage, this project offers a lightweight, standalone solution for managing patient health records efficiently.
 
 ---
