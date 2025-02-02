@@ -77,8 +77,6 @@ As part of a CSE360 team project, I played a key role in the development and coo
 My specific contributions include:
 
 - **Doctor & Nurse Modules**: Developed the doctor and nurse modules, focusing on functional coding and seamless data integration.
-    - Implemented core features like appointment management and medical notes handling.
-    - Designed and optimized doctor-nurse interactions, enabling efficient collaboration through shared records and role-based functionalities.
 - **Patient Module**: Assisted in implementing and refining the patient dashboard, improving user interaction and accessibility.
 - **Data Management**: Developed and structured the file-based storage system for managing patient records.
 - **General Coding**: Implemented core functionalities, including appointment management, medical notes, and data retrieval.
