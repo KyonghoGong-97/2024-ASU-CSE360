@@ -1,4 +1,4 @@
-### 🏥 **Patient Health Management System**
+### 🏥 **CT Scan Patient Management System**
 This project is a JavaFX-based patient health management system designed to provide role-based access for patients, doctors, and nurses.   
 The system facilitates secure authentication, appointment scheduling, medical record management, and doctor/nurse notes tracking.
 
