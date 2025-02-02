@@ -41,7 +41,6 @@ Patients can:
 📄 **File-Based Data Storage**
 - Instead of a database, this system stores patient records as .txt files, making it lightweight and easy to manage.
 
-
 ---
 
 
@@ -61,20 +60,39 @@ Patients can:
 
 ---
 
-### 👤 My Contributions
+### 👤** My Contributions**
+As part of a CSE360 team project, I played a key role in the development and coordination of the Hospital Management System.
 
+My specific contributions include:
+
+- **Doctor & Nurse Modules**: Led the development of doctor and nurse interfaces, ensuring seamless data integration and role-based access.
+- **Patient Module**: Assisted in implementing and refining the patient dashboard, improving user interaction and accessibility.
+- **Data Management**: Developed and structured the file-based storage system for managing patient records.
+- **General Coding**: Implemented core functionalities, including appointment management, medical notes, and data retrieval.
+- **Team Collaboration**: Participated in team meetings, discussions, and debugging sessions, providing technical support.
+- **Report Writing**: Contributed to the project documentation, outlining system architecture and implementation details.
+
+This work was done in collaboration with my teammates, who contributed to other aspects of the project. 🚀
 
 ---
 
 
 ### 🕹️ **How to Use**
+1️⃣ Prerequisites
+Before running the application, make sure you have:
 
+Java Development Kit (JDK) 11 or higher installed.
+JavaFX SDK (since JavaFX is not included in JDK 11+).
+An IDE like IntelliJ IDEA, Eclipse, or VS Code configured for JavaFX.
 
 ---
 
 
 ### 🚀 **Future Improvements**
-
+- Database Integration – Replace text file storage with MySQL or Firebase.
+- Security Enhancements – Implement password encryption and role-based authentication.
+- Better UI/UX – Improve the design with modern JavaFX styling.
+- Appointment Scheduling – Add a real-time booking system with notifications.
 
 ---
 
