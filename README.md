@@ -20,6 +20,9 @@ The project leverages JavaFX for the UI and file-based storage instead of a data
 
 ### 🏥 **System Modules**
 
+The Hospital Management System provides role-based access to different users, ensuring smooth and efficient medical record management. 
+
+Below are the key modules and their functionalities:
 🔑 **User Authentication**   
 - Patients can sign up and log in securely to access their medical information.
 
