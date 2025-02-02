@@ -1,5 +1,6 @@
-### 📑 CT Scan Patient Management System
-This project is a simplified patient management system focusing on user authentication and data storage for CT scan-related information.
+### 📑 **Hospital Management System**
+This project is a JavaFX-based hospital management system that provides role-based access for patients, doctors, and nurses to manage medical records efficiently.  
+It features a graphical user interface (GUI) for user authentication, appointment scheduling, patient data management, and doctor/nurse notes.
 
 ---
 
@@ -16,17 +17,18 @@ This system includes basic functionalities such as user registration, login, and
 
 
 ### 💻 Technologies Used
-- Database: Stores user accounts, patient records, and appointment data.
-- User Authentication: Ensures secure access to the system.
+- **Java**: Core programming language for the application's logic and functionality.
+- **JavaFX**: GUI framework for building the graphical user interface.
+- **File I/O**(java.io): Used for storing and retrieving data in text files.
 
 ---
 
 
 ### 👥 **Team Members**
-- Kyongho Gong
-- Rsheed AlRashidi
-- Matthew Zhu
-- Kali Armstrong
+- **Kyongho Gong**
+- **Rsheed AlRashidi**
+- **Matthew Zhu**
+- **Kali Armstrong**
 
 ---
 
