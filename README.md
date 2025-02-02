@@ -18,7 +18,7 @@ This system includes basic functionalities such as user registration, login, and
 ### 💻 Technologies Used
 - **Java**: Core programming language for the application's logic and functionality.
 - **JavaFX**: GUI framework for building the graphical user interface.
-- **File I/O**(java.io): Used for storing and retrieving data in text files.
+- **File I/O**: Used for storing and retrieving data in text files.
 
 ---
 
