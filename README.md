@@ -83,8 +83,8 @@ This work was done in collaboration with my teammates, who contributed to other 
 1️⃣ Prerequisites
 Before running the application, make sure you have:
 
-Java Development Kit (JDK) 11 or higher installed.
-JavaFX SDK (since JavaFX is not included in JDK 11+).
+Java Development Kit (JDK) 11 or higher installed.   
+JavaFX SDK (since JavaFX is not included in JDK 11+).   
 An IDE like IntelliJ IDEA, Eclipse, or VS Code configured for JavaFX.
 
 ---
