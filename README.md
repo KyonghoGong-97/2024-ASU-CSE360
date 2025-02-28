@@ -62,7 +62,7 @@ Below are the key modules and their functionalities:
 
 ---
 
-### 👤** My Contributions**
+### 👤 **My Contributions**
 As part of a CSE360 team project, I played a key role in the development and coordination of the Hospital Management System.
 
 My specific contributions include:
